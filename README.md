@@ -1,3 +1,4 @@
-# Books
+# Algorithms and Data Structures
 
-this Repo contains solutions to different sorting algorithms written in python
+This repo contains a list of Algorithms and Data Structures written in Python.
+
